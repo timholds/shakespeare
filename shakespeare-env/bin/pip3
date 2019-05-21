@@ -1,5 +1,4 @@
 #!/Users/timholdsworth/code/shakespeare/shakespeare-env/bin/python
-
 # -*- coding: utf-8 -*-
 import re
 import sys
